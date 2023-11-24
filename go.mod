@@ -1,3 +1,3 @@
-module github.com/minofmax/testapi
+module github.com/minofmax2/testapi
 
 go 1.18
